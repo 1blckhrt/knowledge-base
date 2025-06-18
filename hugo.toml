@@ -1,0 +1,11 @@
+baseURL = 'https://1blckhrt.github.io/'
+languageCode = 'en-us'
+title = "blckhrt's blog"
+theme = 'PaperMod'
+
+[menu]
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
