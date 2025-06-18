@@ -1,7 +1,7 @@
 ---
 title: "My Go-To Beatmaking Tools — and Why I Ignore the Rest"
 date: 2025-06-18T17:00:00-04:00
-draft: true
+draft: false
 categories: ["Music"]
 tags: ["beatmaking", "tools", "workflow"]
 ---
