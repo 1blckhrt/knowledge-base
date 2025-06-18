@@ -40,16 +40,16 @@ I mainly use **three plugins** to make melodies — they cover pretty much every
 
 ### 🎛 VST Effects
 
-- **Fruity Parametric EQ 2**
+- **Fruity Parametric EQ 2**:
   Stock EQ — gets the job done. What more do you need?
 
-- **Fruity Delay 3**
+- **Fruity Delay 3**:
   Stock delay with tons of tweakability.
 
-- **Fruity Convolver** (Blur Pink & Blur White presets)
+- **Fruity Convolver** (Blur Pink & Blur White presets):
   Great for turning anything into a pad.
 
-- **Gross Beat**
+- **Gross Beat**:
   Time and volume-based effects — think stutter, half-speed, and glitch.
 
 > That’s it. You don’t need super expensive plugins to make clean, creative beats. These just work.
@@ -58,10 +58,10 @@ I mainly use **three plugins** to make melodies — they cover pretty much every
 
 ### 🥁 Drumkits
 
-- **Timeless** & **Winternite** kits by Nightiger
+- **Timeless** & **Winternite** kits by Nightiger:
   Perfect for anything digicore or hyperpop-adjacent.
 
-- **My personal kit**
+- **My personal kit**:
   A custom set I built from favorite sounds across other kits + some I've designed myself.
 
 ---
