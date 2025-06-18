@@ -14,3 +14,7 @@ theme = 'PaperMod'
     name = "Blog"
     url = "/posts/"
     weight = 1
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
