@@ -15,6 +15,18 @@ theme = 'PaperMod'
     url = "/posts/"
     weight = 1
 
+[[menu.main]]
+  name = "Music"
+  url = "/posts/music/"
+  parent = "Posts"
+  weight = 2
+
+[[menu.main]]
+  name = "Programming"
+  url = "/posts/programming/"
+  parent = "Posts"
+  weight = 2
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
