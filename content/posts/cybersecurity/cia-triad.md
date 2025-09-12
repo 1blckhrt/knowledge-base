@@ -1,6 +1,6 @@
 ---
 title: "CIA Triad"
-date: 2025-09-12T10:07
+date: 2025-09-12T10:07:00
 draft: false
 categories: ["Cybersecurity"]
 tags: ["technology", "security", "cybersecurity"]
