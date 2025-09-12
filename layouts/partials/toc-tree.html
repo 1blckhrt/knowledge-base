@@ -2,7 +2,7 @@
   {{ range .Sections }}
     <li>
       <strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>
-      {{ partial "toc-tree.html" . }}  <!-- recurse into child sections -->
+      {{ partial "toc-tree.html" . }} <!-- recurse into children -->
     </li>
   {{ end }}
 

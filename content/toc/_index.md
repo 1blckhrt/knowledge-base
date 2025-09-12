@@ -1,5 +1,3 @@
 ---
-title: "Table of Contents"
+title: "Posts Index"
 ---
-
-Welcome to the Knowledge Base. Here’s a full index of pages:

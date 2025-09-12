@@ -1,8 +1,10 @@
 {{ define "main" }}
-  <main>
-    <h1>{{ .Title }}</h1>
-    <p>{{ .Content }}</p>
+<main>
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Content }}</p>
 
-    {{ partial "toc-tree.html" .Site }}
-  </main>
+  {{ with .Site.GetPage "section" "posts" }}
+    {{ partial "toc-tree.html" . }}
+  {{ end }}
+</main>
 {{ end }}
