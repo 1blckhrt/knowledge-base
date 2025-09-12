@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = "blckhrt's knowledge base"
 theme = 'PaperMod'
 
+[params]
+  homeInfoParams = { Title = "Welcome!", Content = "This site serves as a collection of knowledge and thoughts." }
+
+  # Disable showing posts on the home page
+  disableSpecial1stPost = true
+  hideSummary = true
+
 [menu]
 
 [[menu.main]]
