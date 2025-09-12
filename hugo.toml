@@ -1,6 +1,6 @@
-baseURL = 'https://1blckhrt.github.io/blog/'
+baseURL = 'https://1blckhrt.github.io/knowledge-base'
 languageCode = 'en-us'
-title = "blckhrt's blog"
+title = "blckhrt's knowledge base"
 theme = 'PaperMod'
 
 [menu]
@@ -11,7 +11,7 @@ theme = 'PaperMod'
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = "/posts/"
     weight = 1
 
