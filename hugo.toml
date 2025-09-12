@@ -1,4 +1,4 @@
-baseURL = 'https://1blckhrt.github.io/knowledge-base'
+baseURL = 'https://1blckhrt.github.io/knowledge-base/'
 languageCode = 'en-us'
 title = "blckhrt's knowledge base"
 theme = 'PaperMod'
@@ -9,6 +9,7 @@ theme = 'PaperMod'
   # Disable showing posts on the home page
   disableSpecial1stPost = true
   hideSummary = true
+  mainSections = []  # empty = no posts shown
 
 [menu]
 
