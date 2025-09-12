@@ -33,11 +33,6 @@ theme = 'PaperMod'
   parent = "Posts"
   weight = 2
 
-[[menu.main]]
-  name = "Table of Contents"
-  url = "/toc/"
-  weight = 3
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
