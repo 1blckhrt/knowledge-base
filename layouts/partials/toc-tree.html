@@ -2,11 +2,11 @@
   {{ range .Sections }}
     <li>
       <strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>
-      {{ partial "toc-tree.html" . }} <!-- recurse into children -->
+      {{ partial "toc-tree.html" . }}
     </li>
   {{ end }}
 
-  {{ range .Pages }}
+  {{ range .RegularPages }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
