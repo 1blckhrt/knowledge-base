@@ -3,7 +3,7 @@ title: "Local Area Network"
 date: 2025-09-12T10:14
 draft: false
 categories: ["Cybersecurity"]
-tags: ["technology", "security", "cybersecurity", "networking]
+tags: ["technology", "security", "cybersecurity", "networking"]
 ---
 
 A LAN is the smallest type of computer network.

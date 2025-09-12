@@ -3,7 +3,7 @@ title: "Network Interface Controllers"
 date: 2025-09-12T10:15
 draft: false
 categories: ["Cybersecurity"]
-tags: ["technology", "security", "cybersecurity", "networking]
+tags: ["technology", "security", "cybersecurity", "networking"]
 ---
 
 A network interface controller (nic) is a hardware component that allows a computer to connect to a network.

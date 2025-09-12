@@ -3,7 +3,7 @@ title: "Network Addresses"
 date: 2025-09-12T10:15
 draft: false
 categories: ["Cybersecurity"]
-tags: ["technology", "security", "cybersecurity", "networking]
+tags: ["technology", "security", "cybersecurity", "networking"]
 ---
 
 In a network, multiple devices are interconnected. To ensure that information reaches the correct destination, we need addresses. There are two types of addresses.

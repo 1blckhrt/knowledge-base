@@ -3,7 +3,7 @@ title: "Fundamental Security Design Principles"
 date: 2025-09-12T10:13
 draft: false
 categories: ["Cybersecurity"]
-tags: ["technology", "security", "cybersecurity", "networking]
+tags: ["technology", "security", "cybersecurity", "networking"]
 ---
 
 - Least common mechanism
