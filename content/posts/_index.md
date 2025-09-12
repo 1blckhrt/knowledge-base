@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Posts"
 date: 2025-06-18T17:53:25-04:00
 draft: false
 ---
