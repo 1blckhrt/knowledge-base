@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <main>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+
+    {{ partial "toc-tree.html" .Site }}
+  </main>
+{{ end }}
