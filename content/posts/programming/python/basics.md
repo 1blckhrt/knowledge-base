@@ -6,8 +6,6 @@ tags: ["python", "programming", "basics"]
 categories: ["Programming"]
 ---
 
-# Python Basics
-
 Python is a high-level, interpreted programming language that emphasizes readability and simplicity.
 
 ## Key Features
