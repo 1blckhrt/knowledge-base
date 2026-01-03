@@ -72,4 +72,4 @@ After reading a section, recite what you gained from the material.
 ### Part 4
 
 - create table of contents
-- recite and review
+- recite and review periodically
