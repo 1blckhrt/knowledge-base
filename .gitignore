@@ -15,3 +15,7 @@ hugo.linux
 .stfolder
 .obsidian/
 .trash
+
+.direnv/
+/result
+/.pre-commit-config.yaml
