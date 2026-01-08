@@ -1,0 +1,61 @@
+baseURL: "https://1blckhrt.github.io"
+languageCode: "en-us"
+title: "blckhrt's knowledge base"
+theme: "PaperMod"
+
+params:
+  ShowBreadCrumbs: true
+  disableSpecial1stPost: true
+  hideSummary: true
+  mainSections: []
+  ShowToc: true
+  
+
+  homeInfoParams:
+    Title: "Knowledge Base"
+    Content: >
+
+      ### What you'll find here
+      
+      - **Personal Notes**: Ideas, thoughts, and reflections on various topics
+      
+      - **Learning** Resources: Summaries, guides, and references for subjects I’m studying
+      
+      - **Projects**: Documentation and notes on personal projects as well as other things I am working on
+      
+
+      The goal of this website is to create a structured, searchable, and easily expandable space for all my notes and learning materials.
+
+socialIcons:
+  - name: "github"
+    title: "View Source on Github"
+    url: "https://github.com/1blckhrt/knowledge-base"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Posts"
+      url: "/posts/"
+      weight: 1
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+
+caches:
+  images:
+    dir: ":cacheDir/images"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

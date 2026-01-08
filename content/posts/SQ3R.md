@@ -1,9 +1,11 @@
-+++
-date = '2026-01-03T03:24:28-05:00'
-draft = false
-title = 'SQ3R Reading Method'
-description = 'A framework for effective reading and comprehension.'
-+++
+---
+date: "2026-01-03T03:24:28-05:00"
+draft: false
+title: "SQ3R Reading Method"
+description: "A framework for effective reading and comprehension."
+tags: ["productivity", "learning", "reading"]
+categories: ["productivity", "learning"]
+---
 
 The [SQ3R](https://www.studygs.net/sq3r-reading-method-a-comprehensive-guide-to-effective-reading/) method is a guide to effective reading.
 
