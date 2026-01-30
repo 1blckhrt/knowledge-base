@@ -62,7 +62,7 @@
         buildInputs =
           check.enabledPackages
           ++ (builtins.attrValues {
-            inherit (pkgs) marksman glow just;
+            inherit (pkgs) markdown-oxide glow just hugo;
             inherit (pkgs.nodePackages) prettier;
           });
       };

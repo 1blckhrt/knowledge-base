@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/github/commit-activity/m/1blckhrt/knowledge-base?style=for-the-badge&color=blueviolet" alt="GitHub commit activity" />
 </p>
 
-A personal knowledge base website to organize notes, ideas, and resources in a structured and easily navigable format.
+> A personal knowledge base website to organize notes, ideas, and resources in a structured format.
